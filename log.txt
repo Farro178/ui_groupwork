@@ -1,0 +1,287 @@
+commit dc38b399de61b21e7ae0209a30b3c016948ad246
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:46:20 2019 +0000
+
+    Update README.md
+
+commit 255f3862f1cea9783376e8d1b54b0b03925beb6f
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:26:05 2019 +0000
+
+    Upload bookshelf.js which has been publicly provided by Curtin University at https://github.com/KohaAloha/virtual-bookshelf
+
+commit d31c2396c38301e7fb79b7f5a70f821fa4cdb3b8
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:24:11 2019 +0000
+
+    Create public directory for scripts
+
+commit 316171ea9456f4a576c48a6565619757601d8fdf
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:23:46 2019 +0000
+
+    Upload book.html to be used as a placeholder for information about books in the future
+
+commit 3e4334d84d1c63697a9facf20794137604315b49
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:23:02 2019 +0000
+
+    Update works to include footer and skip to main content button. Also added content to page.
+
+commit a8c6ece3f1eba8a8639924fdcd2b3458a66ce4aa
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:22:10 2019 +0000
+
+    Update interview.html to include footer and skip to main content
+
+commit 1c959e3acd921ce7f5a9a1d9979f5e3863875b76
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:21:19 2019 +0000
+
+    Update index.html to include footer and skip to main content
+
+commit 164abaaaa442915886c764b86b62f93abf32d5d0
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:20:45 2019 +0000
+
+    Update contact.html to include footer and skip to main content
+
+commit 31c4b8efa2c3f8a11ca782c79ecaeb14948cb4e5
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:20:10 2019 +0000
+
+    Update biography.html to include footer and skip to main content button
+
+commit e11d1b361a3b463d6fbcac7bdce53ac2f6913447
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:17:02 2019 +0000
+
+    Update style.css to include footer, skip to main content and other small changes
+
+commit 3722b64f8ee16437f6cab2399f36b0c20bf79563
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:14:55 2019 +0000
+
+    Upload The Hunger Games cover
+
+commit 04e4900099305f87b7141943f4ae25df263172e9
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:14:34 2019 +0000
+
+    Upload Charlie McButton cover
+
+commit 0be8e4981af5f175a72c68db486d35d919c5aa32
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:13:28 2019 +0000
+
+    Upload Year of the Jungle cover
+
+commit ad0ef6790b038cfb6cf8b7416dd251392e2a0133
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:12:45 2019 +0000
+
+    Upload Mockingjay cover
+
+commit 4e0063e15c9ff57a58e88e97a80f2dbd4d86e047
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:11:29 2019 +0000
+
+    Upload Gregor cover
+
+commit 397ba84b641efc448551d53bbdfda2dbfbcd1545
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 20 11:11:05 2019 +0000
+
+    Upload Catching Fire cover
+
+commit ea9f00e5d5f7c6e101eda54487cec712e1f5d4bb
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Thu Dec 19 17:44:32 2019 +0000
+
+    Update works.html adding tab logo to page
+
+commit d25f5f1de698119229772d9e1a64944630420b21
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Thu Dec 19 17:43:59 2019 +0000
+
+    Update interview.html adding tab logo to page
+
+commit 2118535f32d1e041e147ca87e6b79118f5283d34
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Thu Dec 19 17:43:24 2019 +0000
+
+    Update index.html adding tab bar image.
+
+commit 7e276ea25d65f6565b53b20c19a32583f55c8750
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Thu Dec 19 17:42:32 2019 +0000
+
+    Update contact.html adding tab logo to page
+
+commit 2bf7b772350a5f7e07521cf29429417e67fcb794
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Thu Dec 19 17:41:53 2019 +0000
+
+    Update biography.html adding tab logo to page
+
+commit 1f82c05435b0be9d126663940184a6be37c15777
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Thu Dec 19 17:40:28 2019 +0000
+
+    Uploaded image for the tabs
+
+commit 6dc9a957b508b69102087d1d4c19841c88f663ad
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Thu Dec 19 17:13:49 2019 +0000
+
+    Update style.css increasing margin on index page.
+
+commit 07a1514a687072cbfe32234313b416bd30e85a81
+Author: Harley Martin <martinh5@winlabs.com>
+Date:   Thu Dec 19 17:05:38 2019 +0000
+
+    bolded preorder links on hover to make easier to read
+
+commit 785c68e3959cef0a7510bb4eb4bc14c10d51419d
+Author: Harley Martin <martinh5@winlabs.com>
+Date:   Thu Dec 19 16:51:28 2019 +0000
+
+    fixed overflowing navbar
+
+commit dfc5bba19cc72d52f29d8bdf56471f1a14c4b404
+Author: Harley Martin <martinh5@winlabs.com>
+Date:   Thu Dec 19 16:45:18 2019 +0000
+
+    fixed issue where keyboard tab would tab on preorder buttons twice. changed from buttons to just links
+
+commit 4c4aa5ae79b4941ff741a3a859b480eabdca5b6f
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Wed Dec 18 19:50:17 2019 +0000
+
+    Upload New photo for homepage
+
+commit e310984748a2e6481c4e26b554a60a3964db84dd
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Wed Dec 18 19:49:41 2019 +0000
+
+    Replace style.css completed css for index page
+
+commit 9c143d98a4a0c994afbb423b405e7afe829a77c0
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Wed Dec 18 19:48:12 2019 +0000
+
+    Replace index.html updated html to work with css and added links to buttons
+
+commit 281fa6d7999182a69a6049575c7af56693bbbc56
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Wed Dec 18 18:36:12 2019 +0000
+
+    Replace biography.html moved h1 into bio section
+
+commit 2b7098688bd4d58552ede4fac2efa163aa8da34d
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Wed Dec 18 18:29:16 2019 +0000
+
+    Replaced style.css adding orange colour as page was plain. Made it so text on nav bar was black no matter if previously visited.
+
+commit 16e3bcac4336634e67a60be02c60fbca08e08138
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Wed Dec 18 18:16:07 2019 +0000
+
+    Replaced interview.html taking away numbering and replacing them with Q: for questions and A: for answers for accessability reasons.
+
+commit 7516a65856329d2eb549d3a796d11fa7f99d1143
+Author: Harley Martin <martinh5@winlabs.com>
+Date:   Wed Dec 18 17:50:08 2019 +0000
+
+    fixed issue where textbox placeholder wouldnt display
+
+commit e2b532d4a8b208ba0713a3e72396925c3ae8b507
+Author: Harley Martin <martinh5@winlabs.com>
+Date:   Wed Dec 18 17:36:34 2019 +0000
+
+    changed contact form from php to formspree.io, styled homepage preorder buttons
+
+commit d75e6787fc78afd044913d14f92be5dcbfefeac2
+Author: Harley Martin <martinh5@winlabs.com>
+Date:   Wed Dec 18 16:14:47 2019 +0000
+
+    added contact form, editted interview format
+
+commit 754fd945b04d30fdbefc49695b91df9e03a34eae
+Author: Harley Martin <martinh5@winlabs.com>
+Date:   Wed Dec 18 13:40:51 2019 +0000
+
+    created works, bio, int, contact files. started work on bio, int
+
+commit 02ba750473199ea721a09a453ae8b0287487eb48
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Wed Dec 18 08:02:27 2019 +0000
+
+    Replaced index.html changing navbar.
+
+commit c14638ac2b22e1b57003f0c0aefdfca73e35a22e
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Wed Dec 18 08:01:14 2019 +0000
+
+    Replaced style.css adding nav bar design.
+
+commit c69b4ffcf1e33d91c976f3925833f40a5dcf468b
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Wed Dec 18 07:58:06 2019 +0000
+
+    Uploaded logo image
+
+commit 115133ff61569705967012bb0fdbb3aaca86195e
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Fri Dec 13 15:37:05 2019 +0000
+
+    Uploaded basic index page which is split up into different sections and hs appropriate header but links lead no where.
+
+commit 9252d9e90dda378aed90a4c20600ec8cc209d336
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Fri Dec 13 15:35:37 2019 +0000
+
+    Uploaded fairly basic stylesheet with font set
+
+commit eaed9e5e4cfd2cd53d2f18a8fb587ddaaf9df020
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Fri Dec 13 15:34:12 2019 +0000
+
+    Uploaded cover image for suzannes new book, for the index page
+
+commit e4f428701d69c9e3c4bf75e124254b85f9d8c239
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Fri Dec 13 15:32:28 2019 +0000
+
+    Uploaded image of author for the index page
+
+commit 199a0e8da092bc37865c303e5ff28b9c330ac8f9
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Fri Dec 13 15:31:33 2019 +0000
+
+    added empty images directory to store images for the website
+
+commit 981669ccef1d2be33a0244d7891bfe300149e74f
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Fri Dec 13 15:31:00 2019 +0000
+
+    Deleted accidental image file as not images folder as wanted.
+
+commit 1baf21a2aee7a3ada22d0acccc1d5fd60690db25
+Author: James Farrelly <james.farrelly69@mail.dcu.ie>
+Date:   Fri Dec 13 15:30:19 2019 +0000
+
+    Added empty images folder
+
+commit 1ea80260cf79c2f698debb4f4744c7abb42c6a1a
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 13 13:34:48 2019 +0000
+
+    Create assets directory
+
+commit af351ffcb2e530556f5bc004d1ec40f2fbd45caf
+Author: Emily Whyte <emily.whyte6@mail.dcu.ie>
+Date:   Fri Dec 13 13:32:16 2019 +0000
+
+    Initial commit
